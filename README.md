@@ -5,7 +5,6 @@ hidenp
 lcm
 paramsum
 pgcd
-print_hex
 rstr_capitalizer
 str_capitalizer
 tab_mult
